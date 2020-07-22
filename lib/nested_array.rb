@@ -30,6 +30,7 @@ def sorted_matrix
   # However, this time, sort each internal array alphabetically by the first character
   produce_matrix = [ORGANIC_PRODUCE,CONVENTIONAL_PRODUCE]
   produce_matrix[0].sort
+  produce_matrix[1].sort
   
 end
 
